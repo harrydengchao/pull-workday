@@ -1,1 +1,1 @@
-module.exports = require('./src/pullWorkday.js')
+module.exports = require('./lib/pull-workday.min.js')
